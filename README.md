@@ -12,4 +12,3 @@
 
 <p align="justify">REM vem de “Root ephemeral” que em uma tradução técnica fica “variável à raiz”, ou seja, é variável em relação à propriedade font-size da tag raiz (HTML). EM vem de “ephemeral” que significa “variável”, e ela é variável à propriedade font-size da tag mãe.</p>
 
-
